@@ -7,10 +7,6 @@
 @version      :1.0
 '''
 
-
-from pynput import mouse
-
-
 if __name__ == "__main__":
 
     # 监听鼠标并执行相应的键盘热键

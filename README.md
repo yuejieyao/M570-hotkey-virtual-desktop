@@ -5,10 +5,10 @@
 
 用了win32api和pynput
 没有安装的话
-'''
+```
   pip install pywin32
   pip install pynput
-'''
+```
 
 
 给start.vbs搞个快捷方式丢启动目录里完事
